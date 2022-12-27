@@ -7,4 +7,4 @@ Nesse projeto vimos também o menu hamburguer e botamos em prática nesse projet
 - Projeto:
 
 
-[<img src="./src/desing/landing-page-agencia.gif" alt="Landing Page Agência">]
+[<img src="./src/desing/design-agencia.gif" alt="Landing Page Agência">]
